@@ -25,5 +25,3 @@ jobs: # tarefas que serão executadas
 
             - name: runing e2e tests
               run: yarn run e2e
-            
-             
