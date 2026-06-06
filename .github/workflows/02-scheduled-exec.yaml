@@ -1,7 +1,7 @@
 name: scheduled execution
 on: 
   schedule:
-    - cron: '46 * * * *'
+    - cron: '52 * * * *'
 jobs: # tarefas que serão executadas
     e2e_tests: # nome da task
         runs-on: ubuntu-latest # imagem que será utilizada
